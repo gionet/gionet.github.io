@@ -1,5 +1,4 @@
-My Personal Web Page
-URL: gionet.github.io
+My Personal Web Page  
+URL: gionet.github.io  
 Description:
-
-A static front-end website
+- A static front-end website
