@@ -1,3 +1,4 @@
+document.addEventListener('DOMContentLoaded', function() {
 let menu = document.querySelector('#menu-icon');
 let navbar = document.querySelector('.navbar');
 
@@ -16,3 +17,5 @@ const sr = ScrollReveal ({
 sr.reveal('.home-content h2', {delay:200, origin:'right'});
 sr.reveal('.btn-box', {delay:450, origin:'right'});
 sr.reveal('.social-icons', {delay:450, origin:'bottom'});
+
+});
